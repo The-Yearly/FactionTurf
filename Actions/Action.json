@@ -1,34 +1,9 @@
 {
   "REPEAT": true,
   "ACTIONS": [
-    {
-      "KEY": "ARROWRIGHT",
-      "ACTION": "MOVE",
-      "DURATION": 1000
-    },
-    {
-      "KEY": "SPACE",
-      "ACTION": "SHOOT",
-      "DURATION": 100
-    },
-    {
-      "KEY": "ARROWDOWN",
-      "ACTION": "MOVE",
-      "DURATION": 1000
-    },
-    {
-      "KEY": "SPACE",
-      "ACTION": "SHOOT",
-      "DURATION": 100
-    },
-    {
-      "KEY": "ARROWLEFT",
-      "ACTION": "MOVE",
-      "DURATION": 1000
-    },
-    {
-      "KEY": "SPACE",
-      "ACTION": "SHOOT",
-      "DURATION": 100
-    },
+    { "KEY": "ARROWRIGHT", "ACTION": "MOVE", "DURATION": 500 },
+    { "KEY": "SPACE", "ACTION": "SHOOT", "DURATION": 100 }
+  ]
+}
+
 
