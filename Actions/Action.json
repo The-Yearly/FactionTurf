@@ -1,9 +1,5 @@
-{
-  "REPEAT": true,
-  "ACTIONS": [
-    { "KEY": "ARROWRIGHT", "ACTION": "MOVE", "DURATION": 500 },
-    { "KEY": "SPACE", "ACTION": "SHOOT", "DURATION": 100 }
-  ]
-}
-
+[
+  { "key": "ARROWRIGHT", "action": "move" },
+  { "key": "SPACE", "action": "shoot" }
+]
 
