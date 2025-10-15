@@ -1,4 +1,5 @@
-{
-"action":"UP",
- "name":"Yohan"
-}
+[
+  { "key": "ARROWRIGHT", "action": "move" },
+  { "key": "SPACE", "action": "shoot" }
+]
+
